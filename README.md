@@ -5,7 +5,7 @@ This repository contains the replication pack for our work "CodeGRU: Context-awa
 ## Prerequisites
 Make sure your system meets the followings requirements
 * [Python 3.6+](https://www.python.org/)
-* [Tensorflow 1.9+](www.tensorflow.org)
+* [Tensorflow 1.13.1+](www.tensorflow.org)
 * [Keras 2.2.2+](https://keras.io/)
 
 
